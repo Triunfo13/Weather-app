@@ -1,7 +1,7 @@
-## Weather command app in NODE.js
+# Weather command app in NODE.js
 
 Remember to install ```npm install``` for packages.
 
-# Command example
+## Command example
 
 ```node app -d "monterrey"```
